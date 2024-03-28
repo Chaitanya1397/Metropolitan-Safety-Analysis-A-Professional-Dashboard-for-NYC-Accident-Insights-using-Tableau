@@ -1,0 +1,2 @@
+# Metropolitan-Safety-Analysis-A-Professional-Dashboard-for-NYC-Accident-Insights-using-Tableau
+ Crafted a detailed Tableau dashboard analyzing NYC accidents, merging collision, weather, and climate data. Ensured data accuracy through robust preprocessing. Uncovered insights on weather-accident correlations. Designed intuitive visualizations for stakeholders to identify high-risk areas and recommend interventions for improving road safety.
